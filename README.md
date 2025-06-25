@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Telsinge!
 
-🎓 Final Year B.Tech CSE Student at DKTE Society's Textile & Engineering Institute  
+🎓 B.Tech CSE graduate at DKTE Society's Textile & Engineering Institute  
 💻 Passionate about Full-Stack Development, Cloud Computing, and AI  
 🚀 Always learning & building real-world applications  
 📍 Ichalkaranji, Maharashtra, India
