@@ -64,72 +64,6 @@
 
 ---
 
-## 🏗️ What I'm Currently Shipping
-
-> *6 months in. 4 production SaaS platforms. All built end-to-end.*
-
-```
-Corp Crunch  ·  Pune, Maharashtra  ·  Dec 2025 – Present
-```
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ UTOPIA
-**Reputation Intelligence Platform**
-
-Multi-source signal aggregation across **social media, news & dark web** with NLP sentiment classification, misinformation detection, and automated crisis routing to 4 specialized teams (Marketing / Legal / Product / Security).
-
-`NLP` `Sentiment Analysis` `GeoHeatmap` `Microservices`
-
-</td>
-<td width="50%">
-
-### 📡 PROWESS
-**PR Distribution Platform**
-
-AI-powered press release targeting across **10+ geographic tiers** and **100+ publications**, with ML-ranked channel recommendations and a 7-dimension analytics engine (Impressions, Reach, Sentiment, Competitive Analysis + more).
-
-`ML Ranking` `Automation` `Analytics` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✍️ QRAYT AI
-**Content Engine**
-
-Generates Blog Posts, Press Releases, Social Media & Email Campaigns with **brand voice avatars** and audience-tuned profiles. Reduced content creation time by **60%** and publishing time by **3×**.
-
-`Google OAuth2` `Stripe Billing` `Brand AI` `Next.js`
-
-</td>
-<td width="50%">
-
-### ⚖️ CLEAR COMPLY
-**Regulatory Compliance Platform**
-
-5-stage document lifecycle (Draft → Review → Approval → Active → Archival), semantic regulatory search, ML-based impact classification, 6-role GRC system, and an **immutable audit trail**.
-
-`GRC` `Semantic Search` `Role-Based Access` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
----
-
-```
-Astraeus Next Gen  ·  Blockchain Developer Intern  ·  Jun – Nov 2025
-```
-
-- Integrated blockchain backend with React.js frontend → **30% less** manual reconciliation for 200+ daily users
-- Web3.js + RESTful APIs for real-time on-chain data → **25% faster** dashboard load times
-
----
-
 ## 🔬 Projects
 
 <table>
@@ -167,7 +101,73 @@ Full-stack MVC app with auth, image uploads via Cloudinary, RESTful routes and r
 
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+
+### 📝 [AIArticleGen](https://github.com/AdityaTel89/AIArticleGen)
+**AI-Powered Article Generator**
+
+`Next.js` `OpenAI API` `TypeScript`
+
+AI-powered article generator tailored for developers. Generates programming blogs and tutorials in seconds using LLM integration.
+
+</td>
+<td align="center" width="33%">
+
+### 🍳 [RecipeApp](https://github.com/AdityaTel89/RecipeApp)
+**Ingredient-to-Recipe Mobile App**
+
+`React Native` `Expo` `Groq API`
+
+Mobile utility app that generates detailed recipes from available ingredients using the Groq API. Built with Expo for cross-platform support.
+
+</td>
+<td align="center" width="33%">
+
+### 📊 [Sorting Visualizer](https://github.com/AdityaTel89/sorting-visualizer)
+**Algorithm Visualizer**
+
+`JavaScript` `HTML5` `CSS3`
+
+Interactive web app that visualizes sorting algorithms in real-time using vanilla JS, HTML5, and CSS3 — no frameworks, pure DOM manipulation.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🤖 [Software for Agents](https://github.com/AdityaTel89/software-for-agents)
+**Agentic Tooling**
+
+`Python` `AI Agents`
+
+Tooling and infrastructure built for autonomous AI agents — exploring agentic workflows and LLM-driven automation pipelines.
+
+</td>
+<td align="center" width="33%">
+
+### 📞 [AutoDialer](https://github.com/AdityaTel89/AutoDialer)
+**Bulk Autodialer Web App**
+
+`Ruby on Rails 7` `Twilio` `CSV`
+
+Bulk autodialer supporting batch phone calls to Indian numbers via Twilio. Features AI voice prompts, CSV/text upload, live call logs, and dashboard statistics.
+
+</td>
+<td align="center" width="33%">
+
+</td>
+</tr>
 </table>
+
+---
+
+```
+Astraeus Next Gen  ·  Blockchain Developer Intern  ·  Jun – Nov 2025
+```
+
+- Integrated blockchain backend with React.js frontend → **30% less** manual reconciliation for 200+ daily users
+- Web3.js + RESTful APIs for real-time on-chain data → **25% faster** dashboard load times
 
 ---
 
