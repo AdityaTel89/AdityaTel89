@@ -1,3 +1,6 @@
+Here is the complete, updated markdown with **3GPP RAG Chatbot** added to the projects section:
+
+```markdown
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
@@ -156,6 +159,13 @@ Bulk autodialer supporting batch phone calls to Indian numbers via Twilio. Featu
 </td>
 <td align="center" width="33%">
 
+### 📡 [3GPP RAG Chatbot](https://github.com/AdityaTel89/3gpp_rag_chatbot)
+**5G Spec Grounded RAG Assistant**
+
+`TypeScript` `React` `Supabase` `Groq`
+
+Domain-aware hybrid RAG assistant for 3GPP specifications with BGE-M3 dense/sparse search, cross-encoder reranking, and claim-level entailment grounding.
+
 </td>
 </tr>
 </table>
@@ -205,3 +215,4 @@ Astraeus Next Gen  ·  Blockchain Developer Intern  ·  Jun – Nov 2025
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=18&fontColor=A78BFA&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
+```
