@@ -77,7 +77,7 @@
 
 Two-stage Hybrid GAN + Pix2Pix generating **2,000+ synthetic retinal images** from just 60 real samples. Solves data scarcity in medical AI.
 
-🥈 **2nd Rank — National Mega Project Competition**
+🥈 **2nd Rank — Mega Project Competition**
 
 </td>
 <td align="center" width="33%">
